@@ -1,0 +1,4 @@
+dict1={'a':1,'b':2}
+total=sum(dict1.values())
+print("dict1",dict1)
+print("sum of values",total)
